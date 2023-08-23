@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[hii, please make me soo]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-23T10:55:13 IST" name="Default suite" finished-at="2023-08-23T10:55:13 IST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2023-08-23T10:55:13 IST" name="Default test" finished-at="2023-08-23T10:55:13 IST" duration-ms="54">
+      <class name="git.Test1">
+        <test-method signature="method1()[pri:0, instance:git.Test1@13fd2ccd]" started-at="2023-08-23T10:55:13 IST" name="method1" finished-at="2023-08-23T10:55:13 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hii, please make me soo]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- git.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
